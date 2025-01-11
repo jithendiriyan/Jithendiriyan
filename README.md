@@ -8,11 +8,13 @@ I am a passionate professional dedicated to solving real-world challenges throug
 ## 🧑‍💼 About Me  
 
 🎓 **Name**: Jithendiriyan S S  
-📍 **Location**: Gobichettipalayam, Erode, India  
+📍 **Location**: Gobichettipalayam, Erode, TamilNadu, India  
 🎓 **Degree**: B.E. in Electrical and Electronics Engineering  
 📱 **Contact**: +91 930206635 
 📩 **Email**: ssjithendiriyan@gmail.com
 💼 **LinkedIn**:https://www.linkedin.com/in/jithendiriyansivakumar
+🤖 **Portfolio**:https://jithendiriyan.netlify.app/
+
 
 ---
 
@@ -20,10 +22,12 @@ I am a passionate professional dedicated to solving real-world challenges throug
 
 ### 🖥️ Programming & Development  
 - **Python** 🐍  
-- **JavaScript** 🌐  
-- **HTML/CSS** 🎨  
-- **SQL** 📈
-- **Reactjs** 🌐  
+- **JavaScript** ｡🇯‌🇸‌
+- **HTML/CSS** </> 
+- **SQL** 🛢
+- **Reactjs** ⚛️
+- **Bootstarp**🎨
+- **TailwindCSS** ✨
 - **Django** 🌟
 - **Data Analysis** 📊
 - **Data Science** 📉
