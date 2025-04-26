@@ -68,7 +68,7 @@ I am a passionate professional dedicated to solving real-world challenges throug
 
 - 📚 **JavaScript**: Advancing my front-end development skills.  
 - 🤖 **Machine Learning**: Enhancing capabilities in AI-driven solutions.  
-
+- 💻 **Frappe**: Developing the capabilities in ERPNext
 ---
 
 ## 📂 Repository Contents  
