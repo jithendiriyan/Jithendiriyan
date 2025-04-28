@@ -31,6 +31,7 @@ I am a passionate professional dedicated to solving real-world challenges throug
 - **Django** 🌟
 - **Data Analysis** 📊
 - **Data Science** 📉
+- **Frappe Framework / ERPNext**
 - **Web Application Development** 💻
   
 ---
