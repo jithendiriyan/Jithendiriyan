@@ -13,7 +13,7 @@ I am a passionate professional dedicated to solving real-world challenges throug
 📱 **Contact**: +91 930206635 
 📩 **Email**: ssjithendiriyan@gmail.com
 💼 **LinkedIn**:https://www.linkedin.com/in/jithendiriyansivakumar
-🤖 **Portfolio**:https://jithendiriyan.netlify.app/
+🤖 **Portfolio**:[https://jithendiriyan.netlify.app/](https://jithendiriyan-s-s.netlify.app/)
 
 
 ---
